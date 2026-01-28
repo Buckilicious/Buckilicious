@@ -1,7 +1,7 @@
 ### About Me ###
 Hello everyone, I am a 25 year old guy who just wants to learn to code. My favorite color is green, specifically emerald green. I do photography as a hobby mostly doing landscape and macro shots of plants and mushrooms. I have two favorites animals and I classify them as domesticated and wild. My favorite domestic animal is the cat while my favorite wild animal is the Red Panda.
 
-I first started learning on JavaScript as a kid. My dad had a job in coding and I got curious of what he was doing when he'd work at home. He started to teach me JavaScript assigning me to make a simple game. I had intended to make something like Space Invaders with a sprite the player controlled side to side that shot at descending sprites. I never did finish when custody of me and my brother went to our mother.
+I first started learning how to code on JavaScript as a kid. My dad had a job in coding and I got curious of what he was doing when he'd work at home. He started to teach me JavaScript assigning me to make a simple game. I had intended to make something like Space Invaders with a sprite the player controlled side to side that shot at descending sprites. I never did finish when custody of me and my brother went to our mother.
 
 Later on around 2010 on ROBLOX with Lua and spent a few years with it. I had some projects I personally worked on, but I never felt I was applying it and I didn't feel good enough to source myself to others for their projects.
 
